@@ -39,7 +39,7 @@ Material:
     m_Ints: []
     m_Floats:
     - _GlitchStrength: 258.93
-    - _NoiseStrength: 30.1
+    - _NoiseStrength: 33.93
     - _ScanLineStrength: 0.19
     - _ScanLineYTiling: 320.5
     m_Colors: []
