@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: TestFullscreen
-  m_Shader: {fileID: -6465566751694194690, guid: e3b48d668f67e1f4b95d24531b5f094b,
+  m_Name: GlitchMat
+  m_Shader: {fileID: -6465566751694194690, guid: a7e3460b09475c845b1279a3aa43c810,
     type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -37,7 +37,10 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Ints: []
-    m_Floats: []
-    m_Colors:
-    - _Color: {r: 1, g: 1, b: 1, a: 0.40392157}
+    m_Floats:
+    - _GlitchStrength: 258.93
+    - _NoiseStrength: 30.1
+    - _ScanLineStrength: 0.19
+    - _ScanLineYTiling: 320.5
+    m_Colors: []
   m_BuildTextureStacks: []
