@@ -60,11 +60,7 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\2022.3.20f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Data\Shader\CustomPostProcessingMaterial.cs" />
     <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
-    <Compile Include="Assets\Data\Shader\CustomPostProcessPass.cs" />
-    <Compile Include="Assets\Data\Shader\CustomEffectComponent.cs" />
-    <Compile Include="Assets\Data\Shader\CustomPostProcessRenderer.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Alvios\101ArtisticNoise\NoiseFlow.shader" />
