@@ -137,21 +137,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: TV (1)
       objectReference: {fileID: 0}
-    - target: {fileID: 2071767587798087291, guid: dfa288f06af11c74d94375770de0882e,
-        type: 3}
-      propertyPath: m_Layer
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3437448804079382591, guid: dfa288f06af11c74d94375770de0882e,
-        type: 3}
-      propertyPath: m_Layer
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5070106268174150091, guid: dfa288f06af11c74d94375770de0882e,
-        type: 3}
-      propertyPath: m_CullingMask.m_Bits
-      value: 63
-      objectReference: {fileID: 0}
     - target: {fileID: 5692611720311425415, guid: dfa288f06af11c74d94375770de0882e,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -201,11 +186,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8848388693095090624, guid: dfa288f06af11c74d94375770de0882e,
-        type: 3}
-      propertyPath: m_IsActive
-      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2577,21 +2557,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: TV
       objectReference: {fileID: 0}
-    - target: {fileID: 2071767587798087291, guid: dfa288f06af11c74d94375770de0882e,
-        type: 3}
-      propertyPath: m_Layer
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3437448804079382591, guid: dfa288f06af11c74d94375770de0882e,
-        type: 3}
-      propertyPath: m_Layer
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5070106268174150091, guid: dfa288f06af11c74d94375770de0882e,
-        type: 3}
-      propertyPath: m_CullingMask.m_Bits
-      value: 63
-      objectReference: {fileID: 0}
     - target: {fileID: 5692611720311425415, guid: dfa288f06af11c74d94375770de0882e,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -2641,11 +2606,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8848388693095090624, guid: dfa288f06af11c74d94375770de0882e,
-        type: 3}
-      propertyPath: m_IsActive
-      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
